@@ -1,0 +1,40 @@
+h1{ 
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background: rgb(255, 144, 144);
+    
+}
+
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+   
+}
+.Input-login{
+    width: 240px;
+    border-radius: 2px;
+    border-color: grey;
+    
+}
+
+.submit{
+   color: white;
+   background-color: rgb(2, 188, 2);;
+   border:  rgb(2, 188, 2);
+   border-radius: 5px;
+                
+}
+
+div{
+    width: 300px;
+    margin: auto;
+    margin-top: 120px;
+    background: rgb(255, 240, 240);
+    border: 2px solid grey;
+    padding: 10px;
+
+}
+
+
